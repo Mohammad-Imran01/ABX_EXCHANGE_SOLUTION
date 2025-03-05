@@ -5,6 +5,8 @@ This project is a C++ application that interacts with a stock exchange API to:
 2. Receive and parse the data.
 3. Write the parsed data to a JSON file.
 
+![Console Screenshot](https://github.com/Mohammad-Imran01/ABX_EXCHANGE_SOLUTION/blob/master/consoleSS.png)
+
 The core functionality is encapsulated in the `exchangehandler` class, which handles all tasks. The class is instantiated and used in `main.cpp`.
 
 ## Prerequisites
