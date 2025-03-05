@@ -11,8 +11,6 @@ This project is a C++ application that interacts with a stock exchange API to:
 
 The core functionality is encapsulated in the `exchangehandler` class, which handles all tasks. The class is instantiated and used in `main.cpp`.
 
-Additionally, the repository includes a pre-built binary zip file (`bin-ABXExchange.zip`) that contains the application binary and a Node.js server for easy deployment and execution.
-
 ## Prerequisites
 
 To build and run this project from source, you need the following installed:
@@ -32,7 +30,8 @@ You can directly run the application without building it from source. The pre-bu
 1. Download and extract the `bin-ABXExchange.zip` file.
 2. Navigate to the extracted folder.
 3. Run the application binary (e.g., `ABXExchange.exe`).
-4. The Node.js server is included in the zip file for additional functionality (if needed).
+4. Run the command `node main.js` to start the ABX exchange server.  
+   **Note:** Ensure that you have Node.js version 16.17.0 or higher installed on your system.
 
 ## Building the Project from Source
 
