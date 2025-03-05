@@ -1,7 +1,3 @@
-# axb-exchange-solution
-
-A C++ application to request, receive, and parse ticker data, then write the received data to a JSON file.
-
 ## Overview
 
 This project is a C++ application that interacts with a stock exchange API to:
@@ -18,13 +14,11 @@ To build and run this project from source, you need the following installed:
 - **Qt 6**: The application uses Qt for certain functionalities.
 - **MinGW 6.2+**: Required for compiling the C++ code on Windows.
 
-If you want to run the pre-built binary, no additional setup is required. Simply download and extract the zip file.
-
 ## Pre-Built Binary
 
 You can directly run the application without building it from source. The pre-built binary and Node.js server are available in the following zip file:
 
-[Download bin-ABXExchange.zip](https://github.com/Mohammad-Imran01/ABX_EXCHANGE_SOLUTION/blob/master/bin-ABXExchange.zip)
+[bin-ABXExchange.zip](https://github.com/Mohammad-Imran01/ABX_EXCHANGE_SOLUTION/bin-ABXExchange.zip)
 
 ### Steps to Run the Pre-Built Binary:
 1. Download and extract the `bin-ABXExchange.zip` file.
